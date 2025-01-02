@@ -4,3 +4,4 @@ env/
 
 # Ignore collected Data
 data.csv
+output_imgs/*.png
