@@ -1,0 +1,6 @@
+# Ignore enviornment variables/python enviornment folder 
+.env
+env/
+
+# Ignore collected Data
+data.csv
